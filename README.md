@@ -5,3 +5,6 @@ In this project, we investigated a new paradigm of AutoML: LLM-guided hyperparam
 ![LLM-Guided AutoML](./Illustration.png)
 
 Later, we applied this approach to identify the optimal XGBoost model for a cybersecurity dataset, and our results indicated that the informed hyperparameter search (i.e., the LLM-guided search) yielded a better anomaly detection model than the pure algorithmic-based AutoML tool FLAML, achieving a higher detection rate and a lower false alarm rate.
+
+A separate blog that explains the implementation details is also available. The blog is located here:
+[When AutoML Meets Large Language Model](https://medium.com/towards-data-science/when-automl-meets-large-language-model-756e6bb9baa7)
